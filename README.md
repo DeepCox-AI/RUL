@@ -9,7 +9,7 @@
 ## BibTeX
 ```
 @article{RUL2025,
-  author = {Jingyuan Xue, Longfei Wei, Dongjing Jiang, Fang Sheng, Russell Greiner, Jianfei Zhang},
+  author = {Jingyuan Xue, Dongjing Jiang, Qiongchong Jiao, Jianfei Zhang},
   title = {Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life},
   journal = {arXiv: 2503.13558},
   year = {2025},
